@@ -6,28 +6,15 @@ html{
     background-position: center center;
 }
 
-.background-color{
-    background-color: bisque;
-    border-left-color: orange;
-    border-left-width: 8px;
-    border-left-style: solid;
-
-    border-right-color: orange;
-    border-right-width: 8px;
-    border-right-style: solid;
-
-    padding: 20px;
-}
-
 .header{
     background-color:rgba(245, 245, 245, 70%);
     border-style: solid;
     border-color: green;
     margin-top: 20px;
+    padding-left: 20px;
 }   
 
 .footer{
-    background-color: white;
-    padding: 20px;
-    margin-top: 20px;
+    padding: 10px;
+    margin: 10px;
 }
