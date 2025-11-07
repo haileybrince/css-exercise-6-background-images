@@ -4,6 +4,10 @@ html{
     background-position: center center;
 }
 
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
 .header{
     background-color: bisque;
     border-left-color: orange;
@@ -18,5 +22,16 @@ html{
 }
 
 .footer{
-    background-color: bisque;
+    background-color: rgb(251, 242, 231);
+    padding: 10px;
+}
+
+.main{
+    margin-top: 10px;
+}
+
+.page-links{
+    list-style-type: none;
+    padding-left: 0;
+    list-style-position: inside;
 }

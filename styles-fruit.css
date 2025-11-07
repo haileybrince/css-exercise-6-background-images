@@ -1,3 +1,7 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
 .header{
     background-image: url("images/3-fruit.jpg");
     height: 300px;
@@ -9,4 +13,24 @@
     border-top-color: rgb(0, 0, 0);
     border-top-style: solid;
     border-top-width: 4px;
+}
+
+.page-links{
+    list-style-type: none;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.main{
+    margin-top: 10px;
+}
+
+.footer{
+    padding: 10px;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+html{
+    background-color: rgb(245, 241, 233);
 }
